@@ -1,0 +1,36 @@
+.container{
+  height:180px;
+  width:100%;
+  margin-top:100px;}
+.logo{
+height:80px;
+margin-top: 20px;
+}
+.contries{
+  display:flex;
+  justify-content: space-between;
+margin-left: 60px;
+margin-right:60px;
+font-size:18px;
+}
+.container1 {
+    background-color:rgb(24, 24, 84);
+    color:white;
+    font-size:26px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    place-items: center;
+    padding-bottom:30px;
+  }
+  
+  .p {
+    color:white;
+    font-size:22px;
+  }
+  .dp-pic {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+  }
